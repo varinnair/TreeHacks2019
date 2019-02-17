@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5013490263",
+    "firebase_url": "https://treehacks2019-vae.firebaseio.com",
+    "project_id": "treehacks2019-vae",
+    "storage_bucket": "treehacks2019-vae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5013490263:android:e1ca518162861b06",
+        "android_client_info": {
+          "package_name": "com.example.varin.treehacks2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5013490263-bc5qhp439sc39ep4anr2otqm9ufgo9mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varin.treehacks2019",
+            "certificate_hash": "4ecd457521f960346a91d3c2e6ae2b3edf1b2d7d"
+          }
+        },
+        {
+          "client_id": "5013490263-6v0m39br1d9epmajaht4o3sp5h6gv8vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnYffX0cnjTG4q6Cc6dJ8y-L76ScZ8XSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5013490263-6v0m39br1d9epmajaht4o3sp5h6gv8vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -32,11 +32,11 @@ class QuestionActivity : AppCompatActivity() {
 
         when (view.id) {
             R.id.btnYes -> {
-                party = "Y"
+                response = "Y"
             }
 
             R.id.btnNo -> {
-                party = "N"
+                response = "N"
             }
         }
 
