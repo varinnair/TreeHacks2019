@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TreeHacks2019</string>
+
+    <string-array name="questions">
+        <item>Question A</item>
+        <item>Question B</item>
+        <item>Question C</item>
+        <item>Question D</item>
+    </string-array>
+</resources>
